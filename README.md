@@ -1,2 +1,3 @@
 # Hello-World
-Pritice how to use Github
+# Pritice how to use Github
+print('Hello-world!')
